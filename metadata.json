@@ -1,0 +1,6 @@
+{
+  "name": "SandRipple CNC Surface Maker",
+  "description": "Parametric sand ripple generator with interactive brush painting, multi-layer dunes, true-cut filleted canvas geometry, obstacle physics, and CNC STL/OBJ export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
